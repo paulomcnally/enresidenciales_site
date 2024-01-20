@@ -1,5 +1,5 @@
 ---
-layout: services
+layout: post
 title:  "Veredas de Veracruz"
 date:   2024-01-19 19:39:23 -0600
 categories: veredas-de-veracrus
