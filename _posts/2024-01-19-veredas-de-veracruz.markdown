@@ -24,6 +24,3 @@ Servicio: Gas
 Nombre: Gas y Agua Express
 Whatsapp: +505 8321 4021
 {% endhighlight %}
-
-
-<a></a>
